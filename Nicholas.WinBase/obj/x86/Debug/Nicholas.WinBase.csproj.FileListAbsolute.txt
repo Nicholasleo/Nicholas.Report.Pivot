@@ -1,0 +1,8 @@
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WinBase\bin\Debug\Nicholas.WinBase.exe
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WinBase\bin\Debug\Nicholas.WinBase.pdb
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WinBase\obj\x86\Debug\Nicholas.WinBase.FrmBase.resources
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WinBase\obj\x86\Debug\Nicholas.WinBase.Properties.Resources.resources
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WinBase\obj\x86\Debug\Nicholas.WinBase.csproj.GenerateResource.Cache
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WinBase\obj\x86\Debug\Nicholas.WinBase.exe
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WinBase\obj\x86\Debug\Nicholas.WinBase.pdb
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WinBase\bin\Debug\Nicholas.WinBase.exe.config

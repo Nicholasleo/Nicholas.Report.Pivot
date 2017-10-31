@@ -1,0 +1,16 @@
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Implement\bin\Release\Nicholas.Implement.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Implement\bin\Release\Nicholas.Implement.pdb
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Implement\bin\Release\Entities.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Implement\bin\Release\Nicholas.DbProviderFactory.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Implement\bin\Release\Nicholas.Untilty.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Implement\bin\Release\EntityFramework.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Implement\bin\Release\Oracle.DataAccess.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Implement\bin\Release\MySql.Data.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Implement\bin\Release\Entities.pdb
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Implement\bin\Release\Nicholas.DbProviderFactory.pdb
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Implement\bin\Release\Nicholas.Untilty.pdb
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Implement\bin\Release\EntityFramework.xml
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Implement\bin\Release\MySql.Data.xml
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Implement\obj\Release\Nicholas.Implement.csprojResolveAssemblyReference.cache
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Implement\obj\Release\Nicholas.Implement.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Implement\obj\Release\Nicholas.Implement.pdb

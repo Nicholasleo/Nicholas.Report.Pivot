@@ -1,0 +1,4 @@
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Mapping\bin\Debug\Nicholas.Mapping.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Mapping\bin\Debug\Nicholas.Mapping.pdb
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Mapping\obj\Debug\Nicholas.Mapping.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Mapping\obj\Debug\Nicholas.Mapping.pdb

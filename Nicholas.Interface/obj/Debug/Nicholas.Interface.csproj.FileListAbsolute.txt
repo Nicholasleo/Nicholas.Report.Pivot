@@ -1,0 +1,4 @@
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Interface\bin\Debug\Nicholas.Interface.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Interface\bin\Debug\Nicholas.Interface.pdb
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Interface\obj\Debug\Nicholas.Interface.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Interface\obj\Debug\Nicholas.Interface.pdb

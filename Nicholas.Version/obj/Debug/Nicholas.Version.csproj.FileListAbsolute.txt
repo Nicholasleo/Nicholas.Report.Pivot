@@ -1,0 +1,4 @@
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Version\bin\Debug\Nicholas.Version.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Version\bin\Debug\Nicholas.Version.pdb
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Version\obj\Debug\Nicholas.Version.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Version\obj\Debug\Nicholas.Version.pdb

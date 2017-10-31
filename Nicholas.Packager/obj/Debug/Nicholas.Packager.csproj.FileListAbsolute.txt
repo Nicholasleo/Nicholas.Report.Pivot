@@ -1,0 +1,4 @@
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Packager\bin\Debug\Nicholas.Packager.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Packager\bin\Debug\Nicholas.Packager.pdb
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Packager\obj\Debug\Nicholas.Packager.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Packager\obj\Debug\Nicholas.Packager.pdb

@@ -1,0 +1,11 @@
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Wfp\bin\Debug\Nicholas.Wfp.exe
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Wfp\bin\Debug\Nicholas.Wfp.pdb
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Wfp\obj\x86\Debug\MainWindow.baml
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Wfp\obj\x86\Debug\MainWindow.g.cs
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Wfp\obj\x86\Debug\App.g.cs
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Wfp\obj\x86\Debug\Nicholas.Wfp_MarkupCompile.cache
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Wfp\obj\x86\Debug\Nicholas.Wfp.g.resources
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Wfp\obj\x86\Debug\Nicholas.Wfp.Properties.Resources.resources
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Wfp\obj\x86\Debug\Nicholas.Wfp.csproj.GenerateResource.Cache
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Wfp\obj\x86\Debug\Nicholas.Wfp.exe
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Wfp\obj\x86\Debug\Nicholas.Wfp.pdb

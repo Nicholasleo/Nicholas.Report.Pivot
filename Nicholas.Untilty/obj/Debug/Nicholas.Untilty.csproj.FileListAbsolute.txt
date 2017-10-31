@@ -1,0 +1,9 @@
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Untilty\bin\Debug\Nicholas.Untilty.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Untilty\bin\Debug\Nicholas.Untilty.pdb
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Untilty\bin\Debug\Entities.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Untilty\bin\Debug\Nicholas.AES.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Untilty\bin\Debug\Entities.pdb
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Untilty\bin\Debug\Nicholas.AES.pdb
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Untilty\obj\Debug\Nicholas.Untilty.csprojResolveAssemblyReference.cache
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Untilty\obj\Debug\Nicholas.Untilty.dll
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.Untilty\obj\Debug\Nicholas.Untilty.pdb

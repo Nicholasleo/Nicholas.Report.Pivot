@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Fields>
+  <DepCode>部门代码</DepCode>
+  <DepName>部门名称</DepName>
+  <Property>是否产线</Property>
+  <Status>产线状态</Status>
+  <Yield>良率</Yield>
+  <Efficiency>效率</Efficiency>
+  <WorkPrice>部门工时单价</WorkPrice>
+  <PDepId>上级部门代码</PDepId>
+  <Sequence>排列顺序</Sequence>
+
+  <CenterNo>中心代码</CenterNo>
+  <CenterName>中心名称</CenterName>
+  <CenterCardNo>id卡绑定</CenterCardNo>
+  <CenterType>工作站类别</CenterType>
+  <EquipmentNo>设备编号</EquipmentNo>
+  <Property>属性</Property>
+  <WorkPrice>工时单价</WorkPrice>
+  <MachineNum>机台数量</MachineNum>
+  <RatedCapacity>额定产能</RatedCapacity>
+  <Remark>备注</Remark>
+
+  <EquNo>设备号</EquNo>
+  <EquName>设备名称</EquName>
+  <EquCardNo>设备卡号</EquCardNo>
+  <Capacity>产能定义</Capacity>
+  <Valid>是否可用</Valid>
+  <EquResponser>设备责任人</EquResponser>
+
+  <PersonNo>工号</PersonNo>
+  <PersonNum>代号</PersonNum>
+  <PerName>姓名</PerName>
+  <CardNum>员工卡</CardNum>
+  <Job>职务</Job>
+  <Sex>性别</Sex>
+  <Tel>联系电话</Tel>
+  <Email>电子邮件</Email>
+  <Birthday>出生日期</Birthday>
+  <Proficiency>熟练度</Proficiency>
+  <BasicWage>基本工资</BasicWage>
+  <Performance>绩效奖金</Performance>
+  <JobAllowance>岗位津贴</JobAllowance>
+  <SkillPrice>技能价格</SkillPrice>
+  <HireDate>雇佣日期</HireDate>
+  <BankCard>银行卡号</BankCard>
+  <WorkType>工种</WorkType>
+  <IsAvailable>是否在岗</IsAvailable>
+  <OfficePhone>办公电话</OfficePhone>
+  <Address>住址</Address>
+  <Degree>文化程度</Degree>
+  <Hometown>籍贯</Hometown>
+  <Ethnic>民族</Ethnic>
+  <IdCard>身份证</IdCard>
+  
+  
+  
+</Fields>

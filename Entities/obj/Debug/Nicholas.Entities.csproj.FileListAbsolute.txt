@@ -1,0 +1,4 @@
+E:\MyProject\Nicholas.Report.Pivot\Entities\bin\Debug\Entities.dll
+E:\MyProject\Nicholas.Report.Pivot\Entities\bin\Debug\Entities.pdb
+E:\MyProject\Nicholas.Report.Pivot\Entities\obj\Debug\Entities.dll
+E:\MyProject\Nicholas.Report.Pivot\Entities\obj\Debug\Entities.pdb

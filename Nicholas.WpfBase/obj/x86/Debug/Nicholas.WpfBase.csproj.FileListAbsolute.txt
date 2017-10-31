@@ -1,0 +1,11 @@
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\bin\Debug\Nicholas.WpfBase.exe
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\bin\Debug\Nicholas.WpfBase.pdb
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Debug\MainWindow.baml
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Debug\MainWindow.g.cs
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Debug\App.g.cs
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Debug\Nicholas.WpfBase_MarkupCompile.cache
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Debug\Nicholas.WpfBase.g.resources
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Debug\Nicholas.WpfBase.Properties.Resources.resources
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Debug\Nicholas.WpfBase.csproj.GenerateResource.Cache
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Debug\Nicholas.WpfBase.exe
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Debug\Nicholas.WpfBase.pdb

@@ -1,0 +1,12 @@
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\bin\Release\Nicholas.WpfBase.exe.config
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\bin\Release\Nicholas.WpfBase.exe
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\bin\Release\Nicholas.WpfBase.pdb
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Release\MainWindow.baml
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Release\MainWindow.g.cs
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Release\App.g.cs
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Release\Nicholas.WpfBase_MarkupCompile.cache
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Release\Nicholas.WpfBase.g.resources
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Release\Nicholas.WpfBase.Properties.Resources.resources
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Release\Nicholas.WpfBase.csproj.GenerateResource.Cache
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Release\Nicholas.WpfBase.exe
+E:\MyProject\Nicholas.Report.Pivot\Nicholas.WpfBase\obj\x86\Release\Nicholas.WpfBase.pdb
